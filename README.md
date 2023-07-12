@@ -49,4 +49,4 @@ export default MyComponent;
 
 ## Preview
 
-![MobileSelectDialog](src/assets/images/country-select-screenshot.png)
+![MobileSelectDialog](https://res.cloudinary.com/dvhex1r78/image/upload/v1689189654/country-select-screenshot_zziudh.png)
